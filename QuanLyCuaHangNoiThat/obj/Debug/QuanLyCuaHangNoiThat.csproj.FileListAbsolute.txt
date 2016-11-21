@@ -1,0 +1,76 @@
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmDangNhap.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.Cache
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmChinh.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhanVien.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmKhachHang.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhaCC.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmSanPham.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuNhap.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuXuat.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuNhap.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuXuat.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csprojResolveAssemblyReference.cache
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmTacGia.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csprojResolveAssemblyReference.cache
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuNhap.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuXuat.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuXuat.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuNhap.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmSanPham.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhaCC.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmKhachHang.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmChinh.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmDangNhap.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhanVien.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.Cache
+E:\VS2013\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmThongKe.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csprojResolveAssemblyReference.cache
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmThongKe.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuNhap.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuXuat.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuXuat.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuNhap.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmSanPham.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhaCC.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmKhachHang.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmChinh.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmDangNhap.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhanVien.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\VU DUC HIEN\Downloads\QuanLyCuaHangNoiThat-2\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.Cache
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csprojResolveAssemblyReference.cache
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmThongKe.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuNhap.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmCTPhieuXuat.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuXuat.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmPhieuNhap.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmSanPham.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhaCC.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmKhachHang.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmChinh.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmDangNhap.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmNhanVien.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\STYDY\VISUAL 2013\WINDOWSFORM\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.Cache
